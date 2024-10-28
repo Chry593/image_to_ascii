@@ -12,7 +12,7 @@ def img_load_resize(path:str,height : int, width : int) -> tuple:
 
 
 def img_to_ascii():
-    img,altezza, larghezza = img_load_resize("prova3.jpg",200,200)
+    img,altezza, larghezza = img_load_resize("photo.jpg",200,200)
     result = ""
     for i in range(altezza - 1 ):
         for j in range(larghezza - 1):
