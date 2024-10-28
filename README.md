@@ -40,7 +40,7 @@ This project is a Python program that converts images into ASCII art. It utilize
 
 ## Usage
 
-1. Place your image file (e.g., `prova3.jpg`) in the same directory as the script.
+1. Place your image file (e.g., `photo.jpg`) in the same directory as the script.
 2. Modify the `img_load_resize` function call in the `img_to_ascii` function to use your desired image and dimensions.
 3. Run the script:
 
